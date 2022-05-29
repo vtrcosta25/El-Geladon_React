@@ -1,9 +1,9 @@
 .Home {
     position: relative;
     background-image: radial-gradient(
-      farthest-corner at 40px 40px,
-      #50c5ee 60%,
-      rgba(0, 212, 255, 0.5) 100%
+    farthest-corner at 40px 40px,
+    #eee950  60%,
+    #d30000  100%
     );
     min-height: calc(100vh - 60px);
     /* margin: 15px; */
